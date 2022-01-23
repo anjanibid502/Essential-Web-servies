@@ -9,6 +9,7 @@ These services might be useful for scraping of Data.
 https://gisserver.bih.nic.in/ArcGIS/rest/services/ Bihar's iBHUGOL has an ArcGIS Server Backend.
 
 http://india-wris.nrsc.gov.in/ArcGIS/rest/services CWC & ISRO's India WRIS project has information in Flex Based Portal, some of which comes from an ArcGIS Based Backend.
+https://gis.indiawris.gov.in/server/rest/services/nwic
 
 https://geoportal.nic.in/nicgis/rest/services Govt. of India portal for GIS data. This server mainy contains schools data throughtout the country.
 
@@ -19,3 +20,9 @@ https://www.arcgis.com/home/user.html?user=esri_IN_content ESRI India content fo
 https://esriindia1.maps.arcgis.com/home/item.html?id=6e48332636074603acbc55e116ab264e The village boundary layer is perfect and authentic.
 
 https://esriindia1.maps.arcgis.com/home/item.html?id=754933b67938447cbc2beea5057c827b
+
+https://eicappserver.esri.in/server/rest/services/ Bihar-Patna realted GIS data
+
+https://gis.fmiscwrdbihar.gov.in/arcgis/rest/services/
+
+https://gmis.smartcities.gov.in/server/rest/services/
